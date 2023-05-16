@@ -1,5 +1,6 @@
 # Active directory lab with powershell
-<body> In this lab i created a home active directory environment that simulated a real-world Active Directory deployment. This lab consisted of my virtual machine running the necessary Active Directory components, including domain controllers, DNS servers, and Group Policy objects.This allowed me to use administrator level access to practice management and maintenance tasks in a controlled environment, and to gain hands-on experience with Active Directory before deploying it in a production environment. Some things i was able to also practice within this lab include:
+<body> In this lab i created a home active directory environment that simulated a real-world Active Directory deployment. This lab consisted of my virtual machine running the necessary Active Directory components, including domain controllers, DNS servers, and Group Policy objects.This allowed me to use administrator level access to practice management and maintenance tasks in a controlled environment, and to gain hands-on experience with Active Directory before deploying it in a production environment. 
+
 
 Key Contributions:
 
